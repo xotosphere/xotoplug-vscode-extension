@@ -1,13 +1,13 @@
 {
-    "name": "xotocode-vscode-extension",
-    "displayName": "xotocode-vscode-extension",
-    "description": "xotocode-vscode-extension",
+    "name": "xotoplug-vscode-extension",
+    "displayName": "xotoplug-vscode-extension",
+    "description": "xotoplug-vscode-extension",
     "version": "0.0.0",
     "publisher": "xotosphere",
     "license": "SEE LICENSE IN LICENSE .md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/xotocode/xotocode-vscode-extension"
+        "url": "https://github.com/xotocode/xotoplug-vscode-extension"
     },
     "engines": {
         "vscode": "^1.80.0"
